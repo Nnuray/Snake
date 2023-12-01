@@ -19,8 +19,8 @@ import java.util.Random;
 public class HelloApplication extends Application {
     static int speed = 3;
     static int color = 0;
-    static int width = 20;
     static int height = 20;
+    static int width = 20;
     static int foodX = 0;
     static int foodY = 0;
     static int cornerSize = 25;
